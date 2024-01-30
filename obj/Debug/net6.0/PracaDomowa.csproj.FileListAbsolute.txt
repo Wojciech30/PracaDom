@@ -1,0 +1,121 @@
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\PracaDomowa.exe
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\PracaDomowa.deps.json
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\PracaDomowa.runtimeconfig.json
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\PracaDomowa.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\PracaDomowa.pdb
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.AssemblyReference.cache
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.AssemblyInfoInputs.cache
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.AssemblyInfo.cs
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.CoreCompileInputs.cache
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.dll
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\refint\PracaDomowa.dll
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.pdb
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.genruntimeconfig.cache
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\ref\PracaDomowa.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\Dapper.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\EntityFramework.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\MySql.Data.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Data.SQLite.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.CodeDom.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Text.Json.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\ZstdSharp.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Visual Studio Repos\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Visual Studio Repos\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.CopyComplete
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\PracaDomowa.exe
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\PracaDomowa.deps.json
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\PracaDomowa.runtimeconfig.json
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\PracaDomowa.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\PracaDomowa.pdb
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\Dapper.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\EntityFramework.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\Google.Protobuf.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\MySql.Data.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Data.SQLite.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.CodeDom.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Text.Json.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\ZstdSharp.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.AssemblyReference.cache
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.AssemblyInfoInputs.cache
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.AssemblyInfo.cs
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.CoreCompileInputs.cache
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.sourcelink.json
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.CopyComplete
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\refint\PracaDomowa.dll
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.pdb
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\PracaDomowa.genruntimeconfig.cache
+D:\STUDIA\SZEMATOWICZ\PracaDomowa2\PracaDomowa\obj\Debug\net6.0\ref\PracaDomowa.dll
